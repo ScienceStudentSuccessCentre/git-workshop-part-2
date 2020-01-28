@@ -28,6 +28,7 @@
 6. CONGRATS 🥳 and click `Create Pull Request`
 7. Add Omar & Jake to review your pull request! 🎖
 8. THANK OMAR & JAKE 🎉
+9. YAY!!!!
 
 
 ## You are now better on github, your future job thanks you for coming to this amazing workshop. 🦄
