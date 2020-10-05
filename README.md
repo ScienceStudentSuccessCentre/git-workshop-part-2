@@ -12,7 +12,7 @@
 2. Create a new markdown file:
    - > `touch <name-of-file>.md`
 3. Write some fun content, like: 
-   - > `I LOVE WHEN OMAR TEACHES ME GIT!`
+   - > `I LOVE WHEN MATIA TEACHES ME GIT!`
 4. Save your changes. 
 5. Follow these cool git instructions: 
    1. > `git add .`
@@ -26,8 +26,8 @@
    8. Write a solid PULL REQUEST, example: 
       > `#TL;DR, this pull request adds a new file, bla bla bla` 🚀
 6. CONGRATS 🥳 and click `Create Pull Request`
-7. Add Omar & Jake to review your pull request! 🎖
-8. THANK OMAR & JAKE 🎉
+7. Add Matia & Jake to review your pull request! 🎖
+8. THANK MATIA & JAKE 🎉
 9. YAY!!!!
 
 
