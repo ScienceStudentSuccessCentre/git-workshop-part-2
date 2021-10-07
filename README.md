@@ -4,7 +4,7 @@
 ### PLEASE READ THESE INSTRUCTIONS CAREFULLY 👀
 
 1.  Clone this repository!
-- > `git clone https://github.com/ScienceStudentSuccessCentre/git-workshop-part-2.git`
+- > `git clone git@github.com:ScienceStudentSuccessCentre/git-workshop-part-2.git`
 2.  `cd` into: 
    - > `git-workshop-part-2`
 3.  Create your own branch 🌲
